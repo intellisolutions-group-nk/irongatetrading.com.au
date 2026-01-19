@@ -1,0 +1,100 @@
+{
+  "services": [
+    {
+      "id": "import-export",
+      "title": "Import & Export Trading Services",
+      "shortDescription": "Comprehensive import and export solutions for businesses trading internationally across diverse markets.",
+      "description": "We provide end-to-end import and export trading services, helping businesses navigate international markets with confidence. Our expertise spans multiple industries and geographic regions, ensuring seamless cross-border transactions.",
+      "longDescription": "Our import and export trading services form the cornerstone of our business operations. We understand that international trade involves complex logistics, regulatory requirements, and market dynamics. Our team works closely with clients to develop efficient trading strategies that minimise risk and maximise value.\n\nWhether you are importing raw materials for manufacturing, exporting finished goods to new markets, or managing complex supply chains across multiple countries, we provide the expertise and support you need. We handle everything from supplier identification and negotiation to shipping arrangements and customs clearance.",
+      "features": [
+        "International supplier and buyer identification",
+        "Trade negotiation and contract management",
+        "Multi-modal shipping coordination",
+        "Risk assessment and mitigation strategies",
+        "Market entry planning and execution",
+        "Ongoing trade relationship management"
+      ],
+      "icon": "globe"
+    },
+    {
+      "id": "sourcing-procurement",
+      "title": "Product Sourcing & Procurement",
+      "shortDescription": "Strategic sourcing and procurement services to find the right products at competitive prices.",
+      "description": "Our product sourcing and procurement services connect you with reliable suppliers worldwide. We handle supplier verification, quality assessment, and negotiation to ensure you receive the best value for your investment.",
+      "longDescription": "Finding the right suppliers at the right price is crucial for business success. Our sourcing and procurement services take the complexity out of this process. We leverage our extensive network of contacts and deep market knowledge to identify suppliers that meet your specific requirements for quality, price, and reliability.\n\nOur procurement specialists conduct thorough due diligence on potential suppliers, including factory assessments, quality audits, and financial stability checks. We negotiate pricing and terms on your behalf, ensuring you receive competitive rates without compromising on quality or service standards.",
+      "features": [
+        "Global supplier identification and vetting",
+        "Quality assurance and factory audits",
+        "Price negotiation and contract management",
+        "Sample coordination and product testing",
+        "Supplier relationship management",
+        "Alternative supplier development"
+      ],
+      "icon": "search"
+    },
+    {
+      "id": "wholesale-distribution",
+      "title": "Wholesale & Distribution",
+      "shortDescription": "Efficient wholesale and distribution networks to move your products to market effectively.",
+      "description": "We offer comprehensive wholesale and distribution services that streamline the movement of goods from origin to destination. Our established networks ensure efficient delivery and optimal market reach.",
+      "longDescription": "Effective distribution is essential for getting your products to market efficiently and cost-effectively. Our wholesale and distribution services provide access to established networks across Australia and beyond, enabling you to reach customers quickly and reliably.\n\nWe work with businesses of all sizes, from small enterprises looking to expand their reach to large corporations seeking to optimise their distribution operations. Our services include warehousing, inventory management, order fulfilment, and last-mile delivery coordination.",
+      "features": [
+        "Warehousing and inventory management",
+        "Order fulfilment and processing",
+        "Distribution network optimisation",
+        "Retail and wholesale channel development",
+        "Demand forecasting support",
+        "Returns and reverse logistics handling"
+      ],
+      "icon": "warehouse"
+    },
+    {
+      "id": "customs-documentation",
+      "title": "Customs & Trade Documentation Support",
+      "shortDescription": "Expert assistance with customs clearance and trade documentation requirements.",
+      "description": "Navigate complex customs regulations with our documentation support services. We assist with all necessary paperwork, compliance requirements, and regulatory submissions to ensure smooth border crossings.",
+      "longDescription": "International trade involves a significant amount of documentation, and getting it right is essential for avoiding delays, penalties, and other complications. Our customs and trade documentation services ensure that all your paperwork is accurate, complete, and compliant with relevant regulations.\n\nOur team stays current with the latest changes in customs regulations, tariff classifications, and trade agreements. We prepare and review all necessary documents, coordinate with customs authorities, and resolve any issues that arise during the clearance process.",
+      "features": [
+        "Customs declaration preparation and lodgement",
+        "Tariff classification and duty optimisation",
+        "Origin certification and preferential trade documentation",
+        "Import and export licence applications",
+        "Quarantine and biosecurity documentation",
+        "Trade compliance advisory services"
+      ],
+      "icon": "document"
+    },
+    {
+      "id": "logistics-freight",
+      "title": "Logistics & Freight Coordination",
+      "shortDescription": "Coordinated logistics and freight solutions for reliable and timely delivery.",
+      "description": "Our logistics and freight coordination services ensure your goods move efficiently from point A to point B. We manage shipping schedules, carrier selection, and tracking to deliver reliable transportation solutions.",
+      "longDescription": "Reliable logistics and freight services are the backbone of successful international trade. Our logistics coordination services take the stress out of moving goods, whether you are shipping a single container or managing complex multi-modal supply chains.\n\nWe work with a network of trusted carriers and logistics providers to offer competitive rates and reliable service. Our team manages all aspects of the shipping process, from booking and documentation to tracking and delivery confirmation.",
+      "features": [
+        "Sea, air, and land freight coordination",
+        "Container and cargo booking management",
+        "Freight rate negotiation and optimisation",
+        "Shipment tracking and visibility",
+        "Insurance coordination and claims handling",
+        "Specialised cargo handling arrangements"
+      ],
+      "icon": "truck"
+    },
+    {
+      "id": "trade-consulting",
+      "title": "Trade Consulting & Market Advisory",
+      "shortDescription": "Strategic consulting and market insights to guide your trading decisions.",
+      "description": "Leverage our market expertise with our trade consulting and advisory services. We provide strategic insights, market analysis, and guidance to help you make informed trading decisions and identify new opportunities.",
+      "longDescription": "Making sound trading decisions requires deep market knowledge and strategic thinking. Our trade consulting and market advisory services provide you with the insights and guidance you need to navigate the complexities of international commerce.\n\nWhether you are exploring new markets, assessing trading opportunities, or looking to optimise your existing operations, our consultants bring extensive experience and analytical rigour to every engagement. We help you understand market dynamics, identify risks and opportunities, and develop strategies for success.",
+      "features": [
+        "Market research and opportunity assessment",
+        "Competitive analysis and benchmarking",
+        "Trade strategy development",
+        "Regulatory and compliance guidance",
+        "Risk assessment and mitigation planning",
+        "Business development support"
+      ],
+      "icon": "chart"
+    }
+  ]
+}

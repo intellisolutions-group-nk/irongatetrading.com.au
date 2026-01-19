@@ -1,0 +1,46 @@
+{
+  "industries": [
+    {
+      "id": "consumer-goods",
+      "title": "Consumer Goods",
+      "description": "Trading solutions for fast-moving consumer goods, electronics, and household products across domestic and international markets.",
+      "longDescription": "The consumer goods sector demands efficient supply chains, competitive pricing, and reliable quality. We help businesses source products from manufacturers worldwide, manage inventory flows, and ensure timely delivery to retail and wholesale customers. Our expertise covers electronics, home appliances, personal care products, and everyday household items.",
+      "services": ["Product sourcing from global manufacturers", "Quality inspection and assurance", "Import documentation and customs clearance", "Wholesale distribution support", "Inventory and supply chain optimisation"]
+    },
+    {
+      "id": "manufacturing",
+      "title": "Manufacturing & Industrial",
+      "description": "Sourcing and procurement of raw materials, machinery components, and industrial equipment for manufacturing operations.",
+      "longDescription": "Manufacturing businesses rely on consistent access to quality materials and components. We support manufacturers by sourcing raw materials, machinery parts, and industrial equipment from reliable suppliers. Our services help reduce procurement costs, minimise supply chain disruptions, and ensure production schedules are maintained.",
+      "services": ["Raw material sourcing and procurement", "Machinery and equipment imports", "Supplier vetting and quality audits", "Just-in-time delivery coordination", "Long-term supply agreements"]
+    },
+    {
+      "id": "food-beverage",
+      "title": "Food & Beverage",
+      "description": "Import and export services for food products, beverages, and agricultural commodities with proper compliance and documentation.",
+      "longDescription": "The food and beverage industry requires specialised knowledge of regulatory requirements, cold chain logistics, and quality standards. We help businesses import and export food products, beverages, and agricultural commodities while ensuring full compliance with biosecurity and food safety regulations.",
+      "services": ["Import permits and quarantine documentation", "Cold chain logistics coordination", "Food safety compliance support", "Agricultural commodity trading", "Specialty and gourmet product sourcing"]
+    },
+    {
+      "id": "retail",
+      "title": "Retail & E-Commerce",
+      "description": "Wholesale distribution and supply chain solutions for retail businesses and online commerce platforms.",
+      "longDescription": "Retail and e-commerce businesses need agile supply chains that can respond to changing consumer demands. We provide wholesale sourcing, inventory management support, and distribution services that help retailers maintain stock levels and meet customer expectations for fast delivery.",
+      "services": ["Wholesale product sourcing", "Multi-channel distribution support", "Seasonal and promotional stock management", "Private label product development", "Fulfilment and logistics coordination"]
+    },
+    {
+      "id": "construction",
+      "title": "Construction & Building",
+      "description": "Trade services for building materials, construction equipment, and infrastructure project supplies.",
+      "longDescription": "Construction projects require reliable access to materials, equipment, and specialised products. We support the construction industry by sourcing building materials, importing specialised equipment, and coordinating logistics for project-based deliveries. Our services help contractors and developers manage costs and maintain project timelines.",
+      "services": ["Building materials sourcing", "Construction equipment imports", "Project-based logistics coordination", "Bulk material procurement", "Specialised product sourcing"]
+    },
+    {
+      "id": "healthcare",
+      "title": "Healthcare & Medical",
+      "description": "Specialised trading and logistics for medical equipment, healthcare supplies, and pharmaceutical-related products.",
+      "longDescription": "The healthcare sector requires the highest standards of quality, compliance, and reliability. We provide trading services for medical equipment, healthcare supplies, and related products, ensuring all regulatory requirements are met and products are delivered safely and on time.",
+      "services": ["Medical equipment sourcing", "Healthcare supply procurement", "Regulatory compliance support", "Temperature-controlled logistics", "Quality documentation and traceability"]
+    }
+  ]
+}

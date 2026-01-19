@@ -1,0 +1,35 @@
+{
+  "brand": {
+    "name": "Iron Gate Trading",
+    "legalName": "Iron Gate Trading Pty Ltd",
+    "acn": "693 214 274",
+    "abn": "65 693 214 274",
+    "industry": "Import & Export / Trading",
+    "country": "Australia",
+    "state": "New South Wales"
+  },
+  "contact": {
+    "email": "info@irongatetrading.com.au",
+    "website": "https://irongatetrading.com.au"
+  },
+  "addresses": {
+    "registered": {
+      "line1": "Unit 15, 2 Patricia Street",
+      "suburb": "Mays Hill",
+      "state": "NSW",
+      "postcode": "2145",
+      "full": "Unit 15, 2 Patricia Street, Mays Hill NSW 2145"
+    },
+    "postal": {
+      "line1": "Unit 5, 21 Parkes Street",
+      "suburb": "Harris Park",
+      "state": "NSW",
+      "postcode": "2150",
+      "full": "Unit 5, 21 Parkes Street, Harris Park NSW 2150"
+    }
+  },
+  "navigation": {
+    "header": ["Home", "Services", "Industries", "About Us", "Contact"],
+    "footer": ["Privacy Policy", "Terms & Conditions"]
+  }
+}
