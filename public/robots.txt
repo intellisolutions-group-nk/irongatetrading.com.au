@@ -1,0 +1,11 @@
+# Robots.txt for Iron Gate Trading
+# https://irongatetrading.com.au
+
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /_next/
+Disallow: /static/
+
+# Sitemap
+Sitemap: https://irongatetrading.com.au/sitemap.xml

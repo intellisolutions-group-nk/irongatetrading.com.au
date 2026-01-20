@@ -1,0 +1,44 @@
+<svg width="1200" height="630" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a2634"/>
+      <stop offset="100%" style="stop-color:#0f1820"/>
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  
+  <!-- Logo Icon -->
+  <g transform="translate(540, 120)">
+    <rect x="10" y="25" width="10" height="65" fill="#c9a227" rx="2"/>
+    <rect x="80" y="25" width="10" height="65" fill="#c9a227" rx="2"/>
+    <rect x="10" y="15" width="80" height="15" fill="#c9a227" rx="2"/>
+    <rect x="30" y="40" width="7" height="40" fill="#d4b44a" rx="1"/>
+    <rect x="46.5" y="40" width="7" height="40" fill="#d4b44a" rx="1"/>
+    <rect x="63" y="40" width="7" height="40" fill="#d4b44a" rx="1"/>
+  </g>
+  
+  <!-- Company Name -->
+  <text x="600" y="300" text-anchor="middle" font-family="Georgia, serif" font-size="64" font-weight="bold" fill="#ffffff">
+    Iron Gate Trading
+  </text>
+  
+  <!-- Tagline -->
+  <text x="600" y="370" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" fill="#c9a227">
+    Import &amp; Export Trading Services
+  </text>
+  
+  <!-- Description -->
+  <text x="600" y="440" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="#94a3b8">
+    Your trusted partner for comprehensive trading services
+  </text>
+  <text x="600" y="470" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="#94a3b8">
+    across Australia and international markets
+  </text>
+  
+  <!-- Location -->
+  <text x="600" y="570" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#64748b">
+    📍 New South Wales, Australia
+  </text>
+</svg>

@@ -1,0 +1,16 @@
+{
+  "name": "Iron Gate Trading",
+  "short_name": "Iron Gate",
+  "description": "Import, Export, and Trading Services Australia",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1a2634",
+  "theme_color": "#1a2634",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
