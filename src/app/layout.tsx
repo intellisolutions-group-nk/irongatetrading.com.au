@@ -109,7 +109,7 @@ const organizationSchema = {
   name: "Iron Gate Trading Pty Ltd",
   alternateName: "Iron Gate Trading",
   url: "https://irongatetrading.com.au",
-  logo: "https://irongatetrading.com.au/favicon.svg",
+  logo: "https://irongatetrading.com.au/IronGateTrading.png",
   description:
     "Comprehensive import, export, and trading services across Australia. Expert product sourcing, customs documentation, logistics coordination, and trade consulting.",
   address: {
@@ -133,7 +133,7 @@ const localBusinessSchema = {
   "@type": "LocalBusiness",
   "@id": "https://irongatetrading.com.au/#localbusiness",
   name: "Iron Gate Trading Pty Ltd",
-  image: "https://irongatetrading.com.au/favicon.svg",
+  image: "https://irongatetrading.com.au/IronGateTrading.png",
   url: "https://irongatetrading.com.au",
   email: "info@irongatetrading.com.au",
   address: {
@@ -179,9 +179,8 @@ export default function RootLayout({
     <html lang="en-AU" className={`${dmSans.variable} ${libreBaskerville.variable}`}>
       <head>
         <link rel="canonical" href="https://irongatetrading.com.au" />
-        <link rel="icon" href="/favicon.ico" sizes="any" />
-        <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
-        <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+        <link rel="icon" href="/favicon.png" type="image/png" />
+        <link rel="apple-touch-icon" href="/favicon.png" />
         <link rel="manifest" href="/manifest.json" />
         <meta name="geo.region" content="AU-NSW" />
         <meta name="geo.placename" content="Mays Hill" />

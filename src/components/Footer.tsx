@@ -1,4 +1,5 @@
 import Link from 'next/link';
+import Image from 'next/image';
 import companyData from '@/data/company.json';
 
 export default function Footer() {
@@ -11,25 +12,14 @@ export default function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-12">
           {/* Brand Column */}
           <div className="lg:col-span-2">
-            <Link href="/" className="flex items-center space-x-3 group mb-6">
-              <div className="w-10 h-10 relative">
-                <svg viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg" className="w-full h-full">
-                  <rect x="4" y="10" width="4" height="26" fill="var(--color-secondary)" rx="1" />
-                  <rect x="32" y="10" width="4" height="26" fill="var(--color-secondary)" rx="1" />
-                  <rect x="4" y="6" width="32" height="6" fill="var(--color-secondary)" rx="1" />
-                  <rect x="12" y="16" width="3" height="16" fill="var(--color-secondary-light)" rx="0.5" />
-                  <rect x="18.5" y="16" width="3" height="16" fill="var(--color-secondary-light)" rx="0.5" />
-                  <rect x="25" y="16" width="3" height="16" fill="var(--color-secondary-light)" rx="0.5" />
-                </svg>
-              </div>
-              <div className="flex flex-col">
-                <span className="text-lg font-serif font-bold text-[var(--color-text-light)] tracking-wide">
-                  Iron Gate
-                </span>
-                <span className="text-xs text-[var(--color-secondary)] tracking-[0.2em] uppercase">
-                  Trading
-                </span>
-              </div>
+            <Link href="/" className="flex items-center group mb-6">
+              <Image
+                src="/IronGateTrading.png"
+                alt="Iron Gate Trading"
+                width={180}
+                height={50}
+                className="h-12 w-auto"
+              />
             </Link>
             <p className="text-[var(--color-text-muted)] max-w-md leading-relaxed">
               Your trusted partner for import, export, and trading services across Australia and international markets.

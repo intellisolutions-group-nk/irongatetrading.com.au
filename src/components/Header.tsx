@@ -1,6 +1,7 @@
 'use client';
 
 import Link from 'next/link';
+import Image from 'next/image';
 import { useState, useEffect, useRef } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { usePathname } from 'next/navigation';
@@ -82,26 +83,15 @@ export default function Header() {
       <nav className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between h-20">
           {/* Logo */}
-          <Link href="/" className="flex items-center space-x-3 group">
-            <div className="w-10 h-10 relative">
-              <svg viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg" className="w-full h-full">
-                {/* Gate icon */}
-                <rect x="4" y="10" width="4" height="26" fill="var(--color-secondary)" rx="1" />
-                <rect x="32" y="10" width="4" height="26" fill="var(--color-secondary)" rx="1" />
-                <rect x="4" y="6" width="32" height="6" fill="var(--color-secondary)" rx="1" />
-                <rect x="12" y="16" width="3" height="16" fill="var(--color-secondary-light)" rx="0.5" />
-                <rect x="18.5" y="16" width="3" height="16" fill="var(--color-secondary-light)" rx="0.5" />
-                <rect x="25" y="16" width="3" height="16" fill="var(--color-secondary-light)" rx="0.5" />
-              </svg>
-            </div>
-            <div className="flex flex-col">
-              <span className="text-lg font-serif font-bold text-[var(--color-text-light)] tracking-wide group-hover:text-[var(--color-secondary)] transition-colors">
-                Iron Gate
-              </span>
-              <span className="text-xs text-[var(--color-secondary)] tracking-[0.2em] uppercase">
-                Trading
-              </span>
-            </div>
+          <Link href="/" className="flex items-center group">
+            <Image
+              src="/IronGateTrading.png"
+              alt="Iron Gate Trading"
+              width={180}
+              height={50}
+              className="h-12 w-auto"
+              priority
+            />
           </Link>
 
           {/* Desktop Navigation */}
