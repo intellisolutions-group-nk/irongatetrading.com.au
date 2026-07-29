@@ -58,7 +58,7 @@ export default function HomePage() {
             transition={{ duration: 0.8, delay: 0.2, ease: 'easeOut' }}
             className="text-lg sm:text-xl text-[var(--color-text-muted)] max-w-3xl mx-auto mb-6 leading-relaxed"
           >
-            {companyData.brand.name} provides comprehensive import, export, and trading services 
+            {companyData.brand.name} provides comprehensive import, export, and trading services
             across Australia and international markets. Partner with us for seamless global commerce.
           </motion.p>
 
@@ -154,7 +154,6 @@ export default function HomePage() {
         </div>
       </section>
 
-
       {/* Services Overview */}
       <section className="py-24 bg-[var(--color-bg-cream)]">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -166,7 +165,7 @@ export default function HomePage() {
               Our Trading Services
             </h2>
             <p className="text-lg text-[var(--color-text-secondary)] max-w-2xl mx-auto">
-              Comprehensive solutions for businesses engaged in international trade and commerce. 
+              Comprehensive solutions for businesses engaged in international trade and commerce.
               From sourcing to delivery, we handle every aspect of your trading requirements.
             </p>
           </AnimatedSection>
@@ -279,7 +278,7 @@ export default function HomePage() {
                 <span className="text-[var(--color-secondary)]">{companyData.brand.name}</span>
               </h2>
               <p className="text-lg text-[var(--color-text-secondary)] mb-8 leading-relaxed">
-                We bring expertise, reliability, and dedication to every trading relationship. 
+                We bring expertise, reliability, and dedication to every trading relationship.
                 Our commitment to excellence ensures your business thrives in the global marketplace.
               </p>
               <div className="space-y-6">
@@ -406,7 +405,7 @@ export default function HomePage() {
             <rect width="100%" height="100%" fill="url(#dots)" />
           </svg>
         </div>
-        
+
         <div className="relative z-10 max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <AnimatedSection>
             <h2 className="text-3xl sm:text-4xl md:text-5xl font-serif font-bold text-[var(--color-text-light)] mb-6">
